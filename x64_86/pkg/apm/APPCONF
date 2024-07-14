@@ -4,7 +4,7 @@
     "appsrc": "local",
     "pminstallcmd": "",
     "pmupdatecmd": "",
-    "deps": "",
+    "deps": [],
     "pkgarchivetype": "tar.gz",
     "prepcmds": [
         "git clone https://github.com/MateuszB-PL/apmcpp.git",
