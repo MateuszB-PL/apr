@@ -5,7 +5,7 @@
     "pkgarchivetype": "tar.gz",
     "prepcmds": [
         "git clone https://github.com/MateuszB-PL/apmcpp.git",
-        "cp -rf apmcpp/apmpackage/* ."
+        "sudo cp -rf apmcpp/apmpackage/* ."
     ],
     "cmds": [
         "apm"
